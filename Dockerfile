@@ -10,7 +10,7 @@ ENV felix_package=org.apache.felix.main.distribution-${felix_version}.tar.gz
 ENV felix_base http://repo1.maven.org/maven2/org/apache/felix
 
 # Camel
-ENV camel_version 2.16.1
+ENV camel_version 2.15.2
 ENV camel_base http://repo1.maven.org/maven2/org/apache/camel/
 
 ## Install felix
