@@ -1,4 +1,4 @@
-FROM java:8
+FROM sdempsay/docker-java8
 MAINTAINER Shawn Dempsay <shawn@dempsay.org>
 
 ENV DEBIAN_FRONTEND noninteractive
