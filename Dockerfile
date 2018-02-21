@@ -1,4 +1,4 @@
-FROM pavlovmedia/pavlov-felix-container
+FROM pavlovmedia/pavlov-felix-container:5.6.4_06
 MAINTAINER Shawn Dempsay <shawn@dempsay.org>
 
 ENV DEBIAN_FRONTEND noninteractive
